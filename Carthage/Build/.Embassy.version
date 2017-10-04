@@ -1,0 +1,21 @@
+{
+  "iOS" : [
+    {
+      "hash" : "8aac9e12f240f9d380bd95956ee6d8615808733f4409182f6163b2e27ed7c1ab",
+      "name" : "Embassy"
+    }
+  ],
+  "commitish" : "v4.0.0",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+    {
+      "hash" : "8d1217f9a83fad74704c639fb02f951919ce5912f248a0ee71bee7cca795a130",
+      "name" : "Embassy"
+    }
+  ]
+}
